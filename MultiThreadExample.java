@@ -1,7 +1,7 @@
 package study.threads;
 
 public class MultiThreadExample {
-
+//commit done by prathamesh
 	public static void main(String[] args) {
 		ChatThread th1 = new ChatThread();
 		VideoThread th2 = new VideoThread();
