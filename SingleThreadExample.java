@@ -1,5 +1,5 @@
 package study.threads;
-
+//edit by sumit
 public class SingleThreadExample {
 
 	public static void main(String[] args) {//beginning of main thread
