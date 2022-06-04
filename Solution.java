@@ -14,9 +14,10 @@ public class Solution {
 				
 			}
 		}
-		long m=1000000007;
-		long res=sum_gcd%m;
-		return (int)res;
+		//long m=1000000007;
+		//long res=sum_gcd%m;
+		//return (int)res;
+		return sum_gcd;
 		
 	}
 	public static int  hcf(int x, int  y)
