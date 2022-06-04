@@ -1,7 +1,11 @@
 import java.util.Scanner;
 
 public class Solution {
-	//hello
+<<<<<<< HEAD
+	//change by kajal
+=======
+// hiii 	
+>>>>>>> bbd055c8d0c227206029afd0a75917e2125c23a9
 	
 	public static int gcdsum(int n)
 	{
