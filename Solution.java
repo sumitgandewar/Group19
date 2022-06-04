@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // Changes done by Akash yadav
 public class Solution {
-	
+	//prathamesh
 	
 	public static int gcdsum(int n)
 	{
